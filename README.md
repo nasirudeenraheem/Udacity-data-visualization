@@ -1,5 +1,19 @@
 # Udacity-data-visualization
 
+This is my final project on Udacity Data Analyst Nanodegree.
+
+#### Domain
+
+The analysis is focused on **Healthcare** Analytics.
+
+### Objectives
+
+1. Practise the core principles of data analysis
+
+2. Gather information from the data using uni-variate, bivariate and multi-variate analysis
+
+3. Use question, code and observation method.
+
 ### Problem Statement
 
 The recent Covid-19 Pandemic has raised alarms over one of the most overlooked area to focus: Healthcare Management. While healthcare management has various use cases for using data science, patient length of stay is one critical parameter to observe and predict if one wants to improve the efficiency of the healthcare management in a hospital.
