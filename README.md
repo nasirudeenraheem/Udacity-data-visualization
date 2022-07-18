@@ -159,7 +159,7 @@ In the exploratory data analysis process, Bar-chart, Histogram, Violin plot, Hea
 14. Stay vs Ward type vs Admission Deposit.
 15. Correlation analysis of the numeric data.
 
-#### Findings
+## Findings to Above Questions
 
 **Question 1**
 
