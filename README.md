@@ -243,4 +243,6 @@ Most the patient visit for **Moderate** and **Minor** Severity of Ilness.
 
 #### Conclusion
 
-It is observed that most people visited the hospital for sexual reproduction reasons because gynecology is the most visted department with about 79%.
+1. It is observed that most people visited the hospital for sexual reproduction reasons because gynecology is the most visted department with about 79%.
+2. Patient are most likely to stay 11 - 40 days maximum
+3. The Age shows most patient in the hospital are Adults.
