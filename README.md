@@ -4,9 +4,9 @@ This is my final project on Udacity Data Analyst Nanodegree.
 
 #### Domain
 
-The analysis is focused on **Healthcare** Analytics.
+This analysis is focused on **Healthcare** Analytics.
 
-![alt text](http:https://thumbs.dreamstime.com/b/close-up-doctor-showing-medical-analytics-data-technology-concept-187783632.jpg)
+![myimage-alt-tag](https://thumbs.dreamstime.com/b/close-up-doctor-showing-medical-analytics-data-technology-concept-187783632.jpg)
 
 ### Objectives
 
