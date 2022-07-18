@@ -10,11 +10,13 @@ This analysis is focused on **Healthcare** Analytics.
 
 ### Objectives
 
-1. Practise the core principles of data analysis
+### Objectives
 
-2. Gather information from the data using uni-variate, bivariate and multi-variate analysis
+1. Practice the core principles of data analysis
 
-3. Use question, code and observation method.
+2. Gather information from the data using univariate, bivariate, and multivariate analysis
+
+3. Use question, code, and observation methods.
 
 4. Generate 15 insights from the dataset.
 
