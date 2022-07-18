@@ -158,4 +158,9 @@ In the exploratory data analysis process, Bar-chart, Histogram, Violin plot, Hea
 15. Correlation analysis of the numeric data.
 
 #### Findings
-1. 
+
+**Question 1**
+
+* 21-30 days and 11-20 days has the highest days of Patient **Stay**.
+
+* 61-70 days and 91-100 has the least days of Patient **Stay**.
