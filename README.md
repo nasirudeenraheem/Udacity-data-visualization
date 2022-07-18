@@ -6,6 +6,8 @@ This is my final project on Udacity Data Analyst Nanodegree.
 
 The analysis is focused on **Healthcare** Analytics.
 
+![alt text](http:https://thumbs.dreamstime.com/b/close-up-doctor-showing-medical-analytics-data-technology-concept-187783632.jpg)
+
 ### Objectives
 
 1. Practise the core principles of data analysis
@@ -164,3 +166,81 @@ In the exploratory data analysis process, Bar-chart, Histogram, Violin plot, Hea
 * 21-30 days and 11-20 days has the highest days of Patient **Stay**.
 
 * 61-70 days and 91-100 has the least days of Patient **Stay**.
+
+**Question 2**
+
+* Most patient are admitted to **R** ward type
+* Least patient are admitted to **U** ward type
+
+**Question 3**
+
+* Most pateint are admitted to Gynecology department.
+
+* Radiotherapy and anesthesia has relative the same admission into the department.
+
+* Surgery department as the least admission.
+
+**Question 4**
+
+Most the patient visit for **Moderate** and **Minor** Severity of Ilness.
+
+**Question 5**
+
+* Patient **66714** visted the hospital 50 times, which is the patient with highest number of occurence.
+
+**Question 6**
+
+* Hospital code **26** is visted more than 30,000 times in the dataset.
+
+**Question 7**
+
+* Most Age group falls between 31-40 and 41-50 Age Group
+
+* The Age group distribution looks Uni-model
+
+**Question 8**
+
+
+* Most patient admission deposit falls between 4000 - 5000.
+
+* The admission deposit distribution is right skewed.
+
+**Question 9**
+
+* 21-30 days stays has 16% of Moderate Ilness and 4.9% of Extreme Ilness
+
+* 11-20 days has 8.5% of Minor Ilness.
+
+**Question 10**
+
+* On Average the admission deposit per severity of ilness are the same. They are around about 4500.
+
+**Question 11**
+
+* The Gynecology department dominate both Age and Hospital region in the dataset.
+
+**Question 12**
+
+* At 0-10 days of stay most patient are admitted into Emergency.
+
+* Other days of stay most patient are admitted into Trauma.
+
+**Question 13**
+
+* The **Minor** Severity of Ilness has the largest proportion with respect to age and Admission deposit.
+
+**Question 14**
+
+* Most patient did not require admission deposit at U ward type. Only stay 0-10, 11-20, 21-30 and 31-40 use the ward U, while 11-20 and 31-40 have better distribution.
+
+**Question 15**
+
+* City code Hospital and Hospital code has 13% correlation.
+
+* City code Hospital and Hospital code are positive weakly correlated.
+
+* Admission deposit and Available Extra rooms in Hospital are negative weakly correlated.
+
+#### Conclusion
+
+It is observed that most people visited the hospital for sexual reproduction reasons because gynecology is the most visted department with about 79%.
