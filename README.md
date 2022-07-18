@@ -31,7 +31,7 @@ The dataset link can be found on kaggle - https://www.kaggle.com/datasets/anmolk
 <td>Description</td>
 </tr>
 <tr>
-<td>case_id</td>
+<td>case_id</td> 
 <td>Case_ID registered in Hospital</td>
 </tr>  
 <tr>
